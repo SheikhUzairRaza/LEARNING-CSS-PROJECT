@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+.hero-section{
+    min-height : 100vh;
+    background-image: url(/images/hero-section.png);
+    background-size: cover;
+}
